@@ -1,0 +1,25 @@
+Date,Category,Description,Amount,Type,Month
+2026-01-02,Food,Restaurant,450.0,Expense,January
+2026-01-05,Transport,Bus,80.0,Expense,January
+2026-01-08,Shopping,Clothes,1200.0,Expense,January
+2026-01-12,Entertainment,Movie,350.0,Expense,January
+2026-01-15,Food,Cafe,300.0,Expense,January
+2026-01-18,Bills,Electricity,575.0,Expense,January
+2026-01-22,Transport,Auto,120.0,Expense,January
+2026-01-25,Shopping,Shoes,1500.0,Expense,January
+2026-02-02,Food,Restaurant,550.0,Expense,February
+2026-02-06,Bills,Internet,900.0,Expense,February
+2026-02-10,Entertainment,Gaming,500.0,Expense,February
+2026-02-14,Transport,Cab,200.0,Expense,February
+2026-02-18,Shopping,Accessories,1800.0,Expense,February
+2026-02-21,Food,Groceries,700.0,Expense,February
+2026-02-25,Bills,Phone Bill,850.0,Expense,February
+2026-02-28,Entertainment,Concert,1200.0,Expense,February
+2026-03-03,Food,Cafe,350.0,Expense,March
+2026-03-07,Transport,Metro,100.0,Expense,March
+2026-03-11,Shopping,Books,950.0,Expense,March
+2026-03-15,Bills,Electricity,1800.0,Expense,March
+2026-03-19,Food,Restaurant,600.0,Expense,March
+2026-03-23,Entertainment,Movie,400.0,Expense,March
+2026-03-27,Transport,Auto,150.0,Expense,March
+2026-03-30,Shopping,Clothes,2200.0,Expense,March
